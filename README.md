@@ -1,5 +1,4 @@
-# realis-valasztasi-terkep
-reális "minden OEVK ugyanannyit ér" magyar választási térkép
+# reális "minden OEVK ugyanannyit ér" magyar választási térkép
 
 Sztori: azon gondolkodtam (még annó 2022-ben), hogy hogy lehetne úgy ábrázolni az egyéni választási körzeteket, hogy az látszódjon, aminek kell, hogy ti. minden körzet, függetlenül a méretétől, egyet ér, tekintve, hogy egy képviselőt ad, plusz ennek nyomán ne kelljen mindig külön nézegetni/nagyítgatni Budapestet. 🤔
 
