@@ -12,3 +12,6 @@ Halm Tamás egyszerűsítő ötlete, miszerint tökre elég, ha egyszerűen mind
 A truváj ugye az, hogy (1) kb. Magyarország alakú legyen, (2) kijöjjön az ugyanakkora négyzetekből pont 106 darab és (3) amennyire csak lehet minden ott legyen, ahol lennie kell. Milyen szépen látszik Budapest "jelentősége". 🙂
 
 A térkép CC-BY 4.0 licenc szerint használható fel. Kérlek, értesíts, ha felhasználod.
+
+![reális "minden OEVK ugyanannyit ér" magyar választási térkép](hu_OEVK_2026.jpg)
+
