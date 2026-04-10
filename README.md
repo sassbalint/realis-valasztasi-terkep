@@ -5,6 +5,8 @@
  * [hu_OEVK_2026.jpg](hu_OEVK_2026.jpg)
  * [hu_OEVK_2026.pdf](hu_OEVK_2026.pdf)
 
+👍 [Facebook-poszt](https://www.facebook.com/share/p/17u1QLaT8Y) erre.
+
 Sztori: azon gondolkodtam (még annó 2022-ben), hogy hogy lehetne úgy ábrázolni az egyéni választási körzeteket, hogy az látszódjon, aminek kell, hogy ti. minden körzet, függetlenül a méretétől, egyet ér, tekintve, hogy egy képviselőt ad, plusz ennek nyomán ne kelljen mindig külön nézegetni/nagyítgatni Budapestet. 🤔
 
 Halm Tamás egyszerűsítő ötlete, miszerint tökre elég, ha egyszerűen minden OEVK azonos méretű, alapján készítettem az ebben a repóban található térképet.
