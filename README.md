@@ -15,3 +15,4 @@ A térkép [CC-BY 4.0 licenc](https://creativecommons.org/licenses/by/4.0/deed.h
 
 ![reális "minden OEVK ugyanannyit ér" magyar választási térkép](hu_OEVK_2026.jpg)
 
+.
